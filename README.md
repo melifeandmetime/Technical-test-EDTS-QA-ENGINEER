@@ -1,6 +1,6 @@
 
 Technical-test-EDTS-QA-ENGINEER
 
-Name : Aldi Yoga Setiawan 
-Automation Framework : Selenium
-Programming Language : Python
+Name : Aldi Yoga Setiawan /n
+Automation Framework : Selenium /n
+Programming Language : Python /n
